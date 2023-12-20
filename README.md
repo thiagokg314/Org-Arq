@@ -1,4 +1,4 @@
-### Organização e Arquitetura de Computadores
+# Organização e Arquitetura de Computadores
 
 Este repositório contém projetos relacionados à disciplina de Organização e Arquitetura de Computadores. Aqui você encontrará implementações práticas e exemplos de conceitos abordados durante o curso.
 
